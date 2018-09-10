@@ -1,0 +1,97 @@
+
+
+/*        nav            */
+
+
+.top1 {
+  /*  background-color: #82d6c1;
+    height: 55px;
+}
+
+.navbar{
+    height: 24px;
+    width: 150px;
+    padding-left: 27px;
+    position: relative;
+    top: 16px;
+    font-size: 1.5rem;
+}
+
+.top1 .ul{
+    padding-right: 27px;
+    position: relative;
+    bottom: 13px; */               */
+
+}
+/*        Header        */
+.theHeader {
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/12/16/26/fog-1819147_1280.jpg);
+    height: 600px;
+    width: 100%;
+}
+
+.theHeader  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.theHeader p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*      mainContainer    */
+
+.text-center{
+    padding-top: 31px;
+}
+
+.A2{
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/29/04/19/beach-1867285_1280.jpg);
+    height: 300px;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.A2 p{
+    background-color: rgba(0, 0 , 0, 0.5);
+    height: 75px;
+    width: 300px;
+    text-align: center;
+    padding-top: 4px;
+    color: aliceblue;
+    border-radius: 13px;
+    font-size: 2.5rem;
+}
+
+.row {
+    margin: 15px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+ .top i{
+     font-size: 3rem;
+     margin-bottom: 32px;
+ }
+.contact1{
+    width: 40rem;
+}
+
+/*            footer          */
+#footer {
+    background-color: #82d6c1;
+    position: relative;
+    /* top: -11px; */
+    bottom: -61px;
+    height: 81px;
+}
+
+
+#footer p {
+    
+}
